@@ -33,6 +33,7 @@ participated in National level Hackathon in shree dhevi institution at tumakuru
 
 ## 📬 Connect with Me
 📧 Email: ranjithasiddu27@gmail.com.
-💼 LinkedIn: linkedin.com/in/ranjithabasavanna
+💼 LinkedIn: www.linkedin.com/in/
+ranjithabasavanna. 
 🌐 Portfolio: [your-portfolio-link]  
 🐙 GitHub: github.com/Ranjitha-engg(https://github.com/Ranjitha-engg)  
