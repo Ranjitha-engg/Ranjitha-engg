@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-
-https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ranjitha-engg/tech-stacks**Ranjitha-engg/Ranjitha-engg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![StackShare](https://img.shields.io/badge/StackShare-View%20Profile-blue?logo=stackshare&style=for-the-badge)](https://stackshare.io/ranjitha-engg)* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
