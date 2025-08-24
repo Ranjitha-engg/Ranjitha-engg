@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ranjitha  
+# Hi there 👋 I'm Ranjitha B
 
 🎓 Final-year Computer Science and Engineering student at shree venkateshwara Hi-Tech engineering college gobi. 
 💡 Passionate about Cloud Computing, Cybersecurity, and Full-Stack Development.  
