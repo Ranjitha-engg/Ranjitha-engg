@@ -11,7 +11,7 @@
 1.Java
 (https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 2.Python
-(https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+(https://img.shields.io/badge/Python-3776ABstyle=flat&logo=python&logoColor=white)
 3.MySQL
 (https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 4.MongoDB
@@ -35,5 +35,5 @@ participated in National level Hackathon in shree dhevi institution at tumakuru
 📧 Email: ranjithasiddu27@gmail.com.
 💼 LinkedIn: www.linkedin.com/in/
 ranjithabasavanna. 
-🌐 Portfolio: [your-portfolio-link]  
+🌐 Portfolio:
 🐙 GitHub: github.com/Ranjitha-engg(https://github.com/Ranjitha-engg)  
