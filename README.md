@@ -7,19 +7,13 @@
 ## 🛠 Tech Stack
 [![StackShare](https://img.shields.io/badge/StackShare-View%20Profile-blue?logo=stackshare&style=for-the-badge)](https://stackshare.io/ranjitha-engg)
 
-**Languages & Tools:**  
+## Programming Languages:
 1.Java
-(https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 2.Python
-(https://img.shields.io/badge/Python-3776ABstyle=flat&logo=python&logoColor=white)
 3.MySQL
-(https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 4.MongoDB
-(https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 5.AWS
-(https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-6.GitHub
-(https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
+6.GitHub 
 
 ## 📌 Projects
 **Rural Telemedicine Platform** – A mobile-based health consultation system for rural farmers.  
